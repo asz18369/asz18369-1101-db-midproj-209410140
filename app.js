@@ -34,7 +34,7 @@ app.use('/users', usersRouter);
 
 app.use('/crown_40', crown_40_Router);
 app.use('/crown2_40', crown2_40_Router);
-app.use('/midproj_40', midproj_40_Router)
+app.use('/midproj_40', midproj_40_Router);
 
 app.use('/api_40', api_40_Router);
 //cors()
