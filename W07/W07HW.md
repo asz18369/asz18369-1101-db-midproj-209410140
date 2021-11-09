@@ -14,9 +14,10 @@
 
 ---
 ##### P5. (Github) 請將本週課堂練習放入 Github private repo，並將之分享給老師(htchung) 及助教(jerry7657)，
-![](https://i.imgur.com/GqUaYM5.png)
 [Github](https://github.com/asz18369/asz18369-1101-db-midproj-209410140)
 
+![](https://i.imgur.com/GqUaYM5.png)
+![](https://i.imgur.com/l6lAKG5.png)
 ---
 ##### P6. (Heroku) 請設定 Heroku PostgreSQL，能讀入你的theme data，並可顯示之。
 [Heroku](https://db-midproj-209410140-1101.herokuapp.com/)
