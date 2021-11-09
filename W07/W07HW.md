@@ -10,8 +10,7 @@
 [Github problem solving](https://github.com/asz18369/asz18369-1101-db-midproj-209410140/tree/main/docs/midproj_40/answers-md/2_problem-solving)
 ---
 ##### P4. 請開始做期中考 theme ，請將所想做的畫面之data放入資料庫，並能取出，套在ejs檔上。請紀錄step1, step2, ... 過程。  請插入相關的step1.md, step2.md .. 等檔案。
-
-###### 努力中...
+##[Github steps](https://github.com/asz18369/asz18369-1101-db-midproj-209410140/tree/main/docs/midproj_40/answers-md/3_implement-steps)
 
 ---
 ##### P5. (Github) 請將本週課堂練習放入 Github private repo，並將之分享給老師(htchung) 及助教(jerry7657)，
