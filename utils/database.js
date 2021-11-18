@@ -14,13 +14,21 @@ if (isProduction) {
   pool = new Pool({
     user: 'postgres',
     host: 'localhost',
-    database: '1101_db_40',
+    database: '1101-db-midproj-209410140',
     password: '0000',
     port: '5432',
   });
 }
 
-// pool.query('SELECT * from category_xx', (err, res) => {
+
+// const pool = new Pool ({
+//     user: 'postgres',
+//     host: 'localhost',
+//     database: '1101-db-midproj-209410140',
+//     password: '0000',
+//     port: '5432',
+// });
+// pool.query('SELECT * from midproj_40', (err, res) => {
 //   console.log(JSON.stringify(res.rows));
 //   pool.end();
 // });
