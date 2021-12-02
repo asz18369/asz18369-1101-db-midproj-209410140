@@ -9,6 +9,7 @@
   "dependencies": {
     "@heroku/buildpack-registry": "^1.0.1",
     "async-file": "^2.0.2",
+    "build": "^0.1.4",
     "cookie-parser": "~1.4.6",
     "cors": "^2.8.5",
     "debug": "~4.3.2",
