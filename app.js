@@ -12,6 +12,7 @@ const crown2_40_Router = require('./routes/crown2_40');
 const api_40_Router = require('./routes/api_40');
 const ps5_Router = require('./routes/ps5');
 const ps52_Router = require('./routes/ps52');
+const booksRouter = require('./routes/books_40');
 
 var app = express();
 
@@ -37,6 +38,11 @@ app.use('/crown_40', crown_40_Router);
 app.use('/crown2_40', crown2_40_Router);
 app.use('/ps5',ps5_Router);
 app.use('/ps52',ps52_Router);
+
+
+/*Book*/
+app.use('/books_40',booksRouter);
+
 
 
 app.use('/api_40', api_40_Router);
